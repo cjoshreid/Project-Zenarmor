@@ -64,10 +64,11 @@ This project successfully tested the integration of ZenArmor with OPNsense, prov
 
 [OPNsense documentation](https://docs.opnsense.org), [ZenArmor Official Website](https://www.zenarmor.com), online tutorials, ChatGPT.
 
-### Screenshots:
+### Screenshot:
 
-Example of Wazuh Vulnerability Detection Alerts
-  ![screenshot](screen.png)
+Installing the Plugins
+  ![screenshot](sensei.png)
   
-Details of CVE
-  ![screenshot](example.png)
+
+
+  
